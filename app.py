@@ -1,4 +1,4 @@
-# randnum.py
+# app.py
 import flask, random, os  
 
 app = flask.Flask(__name__)
